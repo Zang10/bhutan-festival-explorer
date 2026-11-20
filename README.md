@@ -4,7 +4,7 @@ A frontend-only Vue 3 site to explore Bhutan’s festivals for the February 2027
 
 ## Live demo
 
-[Add Vercel link after deploy]
+https://bhutan-festival-explorer-slm6.vercel.app
 
 ## Features
 
@@ -28,7 +28,7 @@ npm run build
 
 ## Data and accuracy
 
-Festival dates come from the ABTO / Department of Tourism tentative 2027 calendar (updated 14 February 2025) and may change. Photos come from Wikimedia Commons, with authors and licenses listed on the credits page of the live site. If a photo cannot be matched to its festival or venue, the site shows a placeholder instead of a guess. The `verified` flag in `events.json` marks events whose details have been manually reviewed; none have been reviewed yet.
+Festival dates come from the ABTO / Department of Tourism tentative 2027 calendar (updated 14 February 2025) and may change. Photos come from Wikimedia Commons, with authors and licenses listed on the [credits page](https://bhutan-festival-explorer-slm6.vercel.app/credits). If a photo cannot be matched to its festival or venue, the site shows a placeholder instead of a guess. The `verified` flag in `events.json` marks events whose details have been manually reviewed; none have been reviewed yet.
 
 ## Credits
 
@@ -37,4 +37,5 @@ Dzongkhag boundaries: geoBoundaries (CC BY 4.0). Photos: Wikimedia Commons. Phot
 ## Author
 
 Kuenzang Jamtsho
+
 
